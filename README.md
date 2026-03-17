@@ -4,7 +4,7 @@ An incredibly comprehensive, cloud-native Enterprise Resource Planning (ERP) sys
 
 ## 🚀 Overview
 
-DineSync ERP is designed to handle the rigorous demands of modern dining establishments. Deployed entirely on AWS, it utilizes a dual-backend architecture to optimize performance: **NestJS** handles robust business logic, user management, and core relational processes, while **FastAPI** drives high-performance, asynchronous tasks and real-time data processing. 
+MesaOS ERP is designed to handle the rigorous demands of modern dining establishments. Deployed entirely on AWS, it utilizes a dual-backend architecture to optimize performance: **NestJS** handles robust business logic, user management, and core relational processes, while **FastAPI** drives high-performance, asynchronous tasks and real-time data processing. 
 
 ## ✨ Core Features
 
@@ -40,8 +40,8 @@ This project implements a service-oriented architecture. The NestJS application 
 
 1. **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/dinesync-erp.git](https://github.com/yourusername/dinesync-erp.git)
-    cd dinesync-erp
+    git clone [https://github.com/yourusername/MesaOS-erp.git](https://github.com/yourusername/MesaOS.git)
+    cd MesaOS
     ```
 
 2. **Environment Variables**
