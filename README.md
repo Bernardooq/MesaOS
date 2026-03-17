@@ -1,4 +1,4 @@
-# 🍽️ DineSync ERP (Restaurant Enterprise Resource Planning)
+# 🍽️ MesaOS ERP (Restaurant Enterprise Resource Planning)
 
 An incredibly comprehensive, cloud-native Enterprise Resource Planning (ERP) system tailored specifically for the restaurant and hospitality industry. This platform manages the entire lifecycle of restaurant operations, from real-time table management and reservations to inventory, billing, and staff administration.
 
